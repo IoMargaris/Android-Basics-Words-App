@@ -11,7 +11,7 @@ of the RecyclerView can be changed between a vertical list or a grid of items.
 - How to add menu options to add buttons to the app bar.
 
 ### ⚙️  What I built
-Modify a starter dictionary app to implement navigation between screens using intents and adding an options menu.
+Modified a starter dictionary app to implement navigation between screens using intents and adding an options menu.
 
 _*Based on Google's official training pathway (Unit 3: Navigation)_
 
