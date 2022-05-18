@@ -1,4 +1,8 @@
 # Android-Basics-Words-App
+This "starter" branch contains the source code for the Words app that uses Intents to navigate through screens (see the "activities" branch for use of fragments instead)
+
+_*Based on Google's official training pathway (Unit 3: Navigation/Pathway 1)_
+
 This simple dictionary app allows you to select a letter and use Intents to navigate to an Activity that
 presents a number of words starting with that letter. Each word can be looked up via a web search.
 
@@ -12,8 +16,6 @@ of the RecyclerView can be changed between a vertical list or a grid of items.
 
 ### ⚙️  What I built
 Modified a starter dictionary app to implement navigation between screens using intents and adding an options menu.
-
-_*Based on Google's official training pathway (Unit 3: Navigation)_
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/7558821/168612394-8dbe61df-d363-4d5b-9e94-7f4babeb26e1.png" width="300" height="600" />
